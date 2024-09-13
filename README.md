@@ -1,4 +1,6 @@
 # webapp
+
+```
 cd Downloads
 chmod 400 webapp.pem
 ssh -i "webapp.pem" ec2-user@ec2-184-72-68-27.compute-1.amazonaws.com
@@ -41,3 +43,4 @@ git push origin main
 
 sudo touch buildspec.yml
 sudo nano buildspec.yml
+```
