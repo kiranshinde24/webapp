@@ -1,5 +1,18 @@
 # webapp
 
+### Description:
+This project is a simple web application deployment guide on AWS EC2 using GitHub, Node.js, and CodeDeploy. It outlines the steps to set up an EC2 instance, clone a GitHub repository, install dependencies, configure the CodeDeploy agent, and deploy an Express.js app. The guide includes writing deployment scripts and using AWS CodeBuild for continuous integration. 
+
+### Tags:
+- AWS EC2
+- GitHub
+- CodeDeploy
+- Node.js
+- Express.js
+- Continuous Integration
+- Deployment Scripts
+- Web Application
+  
 ```
 cd Downloads
 chmod 400 webapp.pem
